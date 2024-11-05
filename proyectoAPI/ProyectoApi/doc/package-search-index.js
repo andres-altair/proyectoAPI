@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"edu.ProyectoApi"},{"l":"edu.ProyectoApi.edu.ProyectoApi.controladores"},{"l":"edu.ProyectoApi.edu.ProyectoApi.Dtos"},{"l":"edu.ProyectoApi.edu.ProyectoApi.servicios"},{"l":"edu.ProyectoApi.edu.ProyectoApi.utilidades"}];updateSearchResults();
